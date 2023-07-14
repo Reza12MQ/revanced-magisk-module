@@ -1,6 +1,6 @@
-YouTube: 18.25.40  
+YouTube: 18.23.35  
 
-Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
+Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 
