@@ -1,7 +1,6 @@
-enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
-
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
-included-patches = "External downloads Copy video url Seekbar tapping Swipe controls Hide ads Hide "Get YouTube Premium" advertisements Video ads Old video quality menu Playback speed HDR auto brightness Remember video quality Vanced MicroG support Minimized playback Disable zoom haptics Bypass URL redirects Open links externally Hide breaking news shelf Hide watermark Hide Shorts components Navigation buttons Disable auto captions Disable Shorts on startup Disable player popup panels SponsorBlock Return YouTube Dislike Alternative thumbnails Custom player overlay opacity Remove player controls background"
+included-patches = "External downloads Copy video url Seekbar tapping Swipe controls Hide ads Hide "Get YouTube Premium" advertisements Video ads Old video quality menu Playback speed HDR auto brightness Remember video quality Vanced MicroG support Minimized playback Disable zoom haptics Hide breaking news shelf Hide watermark Navigation buttons Hide player buttons Disable auto captions Disable Shorts on startup Disable player popup panels SponsorBlock Return YouTube Dislike Alternative thumbnails Custom player overlay opacity Remove player controls background"
 exclusive-patches = true
+
